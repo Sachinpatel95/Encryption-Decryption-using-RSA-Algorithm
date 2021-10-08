@@ -1,1 +1,1 @@
-Encryption Decryption using RSA Algorithm 
+Encryption and Decryption using RSA Algorithm 
